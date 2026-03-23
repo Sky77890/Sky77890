@@ -1,21 +1,10 @@
 ## Experience & Contributions
 
-My practical experience spans across server management, full-stack development, and the art of **Ctrl+C & Ctrl+V**.
+My practical experience spans across server management, full-stack development, and the art of **Control+C & Control+V**.
 
-*JJ Studio (Main Dev):*
+* **JJ Studio (Main Dev):** เชี่ยวชาญการใช้งาน VSCode 100% พร้อมรับมือกับทุก Error และ Warning เพราะหัวใจหลักของการเขียนโค้ดคือการ **Control+C & Control+V**
 
-printf("VSCode 100%%\n");
-printf("Errors = my best friend\n");
-printf("Warnings = I don't care\n");
-
-if (sleep) 
-{
-    return goodnight;
-} 
-else 
-{
-    code();
-}
+---
 
 ## Technical Arsenal
 
@@ -31,14 +20,7 @@ else
 
 **Tools & IDE**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=androidstudio,vscode" />
-</p>
-
----
-
-## Metrics & Security Platforms
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sky77890&show_icons=true&theme=tokyonight" height="150" />
+  <img src="https://skillicons.dev/icons?i=androidstudio,vscode,blender" />
 </p>
 
 ---
