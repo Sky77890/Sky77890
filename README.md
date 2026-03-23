@@ -1,16 +1,16 @@
-## Hi there 👋
+### Technical Arsenal
 
-<!--
-**Sky77890/Sky77890** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Languages**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,js,py,cpp" />
+</p>
 
-Here are some ideas to get you started:
+**Infrastructure & Backend**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,docker,nginx,linux" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Tools & IDE**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=androidstudio,vscode" />
+</p>
