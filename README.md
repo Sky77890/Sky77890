@@ -8,9 +8,10 @@ My practical experience spans across server management, full-stack development, 
 
 ## Technical Arsenal
 
-**Languages**
+Languages
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mysql,js,py,cpp" />
+ <img src="pawn-lang.svg" height="50"/>
 </p>
 
 **Infrastructure & Backend**
